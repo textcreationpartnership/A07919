@@ -4444,72 +4444,75 @@ first, whereas euery secte of their Religion, the Domini<g ref="char:EOLhyphen"/
                               <desc>〈◊〉</desc>
                            </gap>.</hi>
                      </note> their fine lodgings, their secret places, their sanctua<g ref="char:EOLhyphen"/>ries in euery shire, good towne, and citie. They sease and tax the richer sort of papists, to whom, when, and how much they shall contribute. Of their cruell dealing and pride intolle<g ref="char:EOLhyphen"/>rable I haue spoken more at large in my Motiues.</p>
-                  <figure>
-                     <head>
-                        <list>
-                           <head>The names of the Kings that continually afflicted the Iewes.</head>
-                           <item>
-                              <hi>Antiochus Magnus</hi>
-                              <list>
-                                 <label>
-                                    <hi>Filius <hi>2</hi>
-                                    </hi>
-                                 </label>
-                                 <item>
-                                    <list>
-                                       <item>
-                                          <hi>Antiochus nobilis vol Epiphanes.</hi>
-                                       </item>
-                                       <item>
-                                          <hi>Antiochus, filius Antiochi, Eu<g ref="char:EOLhyphen"/>pator.</hi>
-                                       </item>
-                                       <item>
-                                          <hi>Alexander filius Eupatoris.</hi>
-                                       </item>
-                                       <item>
-                                          <hi>Antiochus ado<g ref="char:EOLhyphen"/>lesceus Alexan<g ref="char:EOLhyphen"/>dri filius.</hi>
-                                       </item>
-                                       <item>
-                                          <hi>Tryphon</hi>
-                                       </item>
-                                    </list>
-                                 </item>
-                                 <label>
-                                    <hi>Filius <hi>1</hi>
-                                    </hi>
-                                 </label>
-                                 <item>
-                                    <list>
-                                       <item>
-                                          <hi>Seleue<gap reason="illegible" resp="#PDCC" extent="1 letter">
-                                                <desc>•</desc>
-                                             </gap>s Philo<g ref="char:EOLhyphen"/>pator.</hi>
-                                       </item>
-                                       <item>
-                                          <hi>Demetrius filius Sele<gap reason="illegible" resp="#PDCC" extent="2 letters">
-                                                <desc>••</desc>
-                                             </gap>s</hi>
-                                       </item>
-                                       <item>
-                                          <hi>Demetrius secun<g ref="char:EOLhyphen"/>dus f<gap reason="illegible" resp="#PDCC" extent="1 letter">
-                                                <desc>•</desc>
-                                             </gap>lius D<gap reason="illegible" resp="#PDCC" extent="1 letter">
-                                                <desc>•</desc>
-                                             </gap>m<gap reason="illegible" resp="#PDCC" extent="1 letter">
-                                                <desc>•</desc>
-                                             </gap>
-                                             <g ref="char:EOLhyphen"/>trii.</hi>
-                                       </item>
-                                       <item>
-                                          <hi>Antiochus filius Demetrii</hi>
-                                       </item>
-                                    </list>
-                                 </item>
-                              </list>
-                           </item>
-                        </list>
-                     </head>
-                  </figure>
+                  <p>
+                     <pb n="147" facs="tcp:1621:78"/>
+                     <figure>
+                        <head>
+                           <list>
+                              <head>The names of the Kings that continually afflicted the Iewes.</head>
+                              <item>
+                                 <hi>Antiochus Magnus</hi>
+                                 <list>
+                                    <label>
+                                       <hi>Filius <hi>2</hi>
+                                       </hi>
+                                    </label>
+                                    <item>
+                                       <list>
+                                          <item>
+                                             <hi>Antiochus nobilis vol Epiphanes.</hi>
+                                          </item>
+                                          <item>
+                                             <hi>Antiochus, filius Antiochi, Eu<g ref="char:EOLhyphen"/>pator.</hi>
+                                          </item>
+                                          <item>
+                                             <hi>Alexander filius Eupatoris.</hi>
+                                          </item>
+                                          <item>
+                                             <hi>Antiochus ado<g ref="char:EOLhyphen"/>lesceus Alexan<g ref="char:EOLhyphen"/>dri filius.</hi>
+                                          </item>
+                                          <item>
+                                             <hi>Tryphon</hi>
+                                          </item>
+                                       </list>
+                                    </item>
+                                    <label>
+                                       <hi>Filius <hi>1</hi>
+                                       </hi>
+                                    </label>
+                                    <item>
+                                       <list>
+                                          <item>
+                                             <hi>Seleue<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                                   <desc>•</desc>
+                                                </gap>s Philo<g ref="char:EOLhyphen"/>pator.</hi>
+                                          </item>
+                                          <item>
+                                             <hi>Demetrius filius Sele<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                                                   <desc>••</desc>
+                                                </gap>s</hi>
+                                          </item>
+                                          <item>
+                                             <hi>Demetrius secun<g ref="char:EOLhyphen"/>dus f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                                   <desc>•</desc>
+                                                </gap>lius D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                                   <desc>•</desc>
+                                                </gap>m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                                   <desc>•</desc>
+                                                </gap>
+                                                <g ref="char:EOLhyphen"/>trii.</hi>
+                                          </item>
+                                          <item>
+                                             <hi>Antiochus filius Demetrii</hi>
+                                          </item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </head>
+                     </figure>
+                  </p>
                </div>
             </div>
             <trailer>Here endeth the first part; containing the state of Gods Church, from Adam, vntill the monarchie of the Romanes.</trailer>
